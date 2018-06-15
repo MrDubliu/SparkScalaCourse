@@ -1,5 +1,5 @@
 # SparkScalaCourse
-An Undemy Frank Kane course for Spark streaming
+An Udemy Frank Kane course for Spark streaming
 
 You need an twitter account to configure connection on PrintTweets program:
 
