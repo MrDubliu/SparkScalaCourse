@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac4adf6-2ed5-4fc6-a6e5-8655315c9e04" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +18,11 @@
       <file leaf-file-name="PrintTweets.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="-165">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#30#55#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -29,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
             </state>
           </provider>
         </entry>
@@ -56,8 +58,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="37" />
+    <option name="x" value="75" />
+    <option name="y" value="940" />
     <option name="width" value="1125" />
     <option name="height" value="728" />
   </component>
@@ -95,7 +97,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/wpedrosa/spark" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/SparkScalaCourse" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -256,19 +258,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="37" width="1125" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="75" y="940" width="1125" height="728" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3288364" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004445" side_tool="true" weight="0.46205732" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46205732" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3288364" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49955556" visible="true" weight="0.46205732" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49955556" weight="0.32715008" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -302,6 +303,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#30#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -372,15 +376,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="-165">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#30#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
         </state>
       </provider>
     </entry>
