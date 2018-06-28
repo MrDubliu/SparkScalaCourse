@@ -1,4 +1,4 @@
-package com.wpedrosa.fin.spark
+package com.wpedrosa.spark
 
 import org.apache.log4j.Level
 import java.util.regex.Pattern

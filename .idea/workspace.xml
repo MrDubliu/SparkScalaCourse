@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ac4adf6-2ed5-4fc6-a6e5-8655315c9e04" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/WordCountBetterSorted.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/RatingsCounter.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/Utilities.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/twitter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/twitter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wpedrosa/spark/PrintTweets$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wpedrosa/spark/PrintTweets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wpedrosa/spark/RatingsCounter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wpedrosa/spark/RatingsCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wpedrosa/spark/Utilities$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wpedrosa/spark/Utilities.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wpedrosa/spark/twitter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/twitter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/twitter.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,25 +25,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrintTweets.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="12" selection-end-line="41" selection-end-column="1" />
-              <folding>
-                <element signature="e#34#59#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="PredictCashing.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="15">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#26#65#0" expanded="true" />
+                <element signature="e#26#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -47,8 +40,8 @@
       <file leaf-file-name="Utilities.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="585">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
@@ -80,16 +73,17 @@
         <option value="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" />
         <option value="$PROJECT_DIR$/../LearningScala1.sc" />
         <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/PredictCashing.scala" />
-        <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala" />
+        <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/WordCountBetterSorted.scala" />
         <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala" />
+        <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="439" />
-    <option name="y" value="156" />
+    <option name="x" value="234" />
+    <option name="y" value="8" />
     <option name="width" value="1161" />
-    <option name="height" value="741" />
+    <option name="height" value="892" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -99,8 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,17 +130,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Spark-Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SparkSQL.scala" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/wpedrosa/fin/spark" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.wpedrosa.fin.fin" />
     </key>
@@ -168,7 +165,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrintTweets (1)">
+  <component name="RunManager" selected="Application.SparkWithDataFrame">
+    <configuration name="PredictCashing" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.wpedrosa.fin.PredictCashing" />
+      <module name="SparkScalaCourse" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wpedrosa.fin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="PrintTweets (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.wpedrosa.spark.PrintTweets" />
       <module name="SparkScalaCourse" />
@@ -198,6 +206,16 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.wpedrosa.spark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SparkWithDataFrame" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ml.dmlc.xgboost4j.scala.example.spark.SparkWithDataFrame" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ml.dmlc.xgboost4j.scala.example.spark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,9 +265,13 @@
       <item itemvalue="Application.RatingsCounter" />
       <item itemvalue="Application.PrintTweets" />
       <item itemvalue="Application.PrintTweets (1)" />
+      <item itemvalue="Application.PredictCashing" />
+      <item itemvalue="Application.SparkWithDataFrame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SparkWithDataFrame" />
+        <item itemvalue="Application.PredictCashing" />
         <item itemvalue="Application.PrintTweets (1)" />
         <item itemvalue="Application.PrintTweets" />
         <item itemvalue="Application.RatingsCounter" />
@@ -386,26 +408,34 @@
       <option name="project" value="LOCAL" />
       <updated>1529085461690</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Beggining">
+      <created>1530202962993</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1530202962993</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="439" y="156" width="1161" height="741" extended-state="0" />
+    <frame x="234" y="8" width="1161" height="892" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3264402" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004445" side_tool="true" weight="0.46205732" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49955556" weight="0.46205732" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49955556" visible="true" weight="0.09735974" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49955556" visible="true" weight="0.30647293" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49955556" weight="0.09735974" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40568477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30490956" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -415,7 +445,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32715008" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -443,9 +472,20 @@
     <MESSAGE value="Dir change 2" />
     <MESSAGE value="Dir change 3" />
     <MESSAGE value="Dir change 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dir change 4" />
+    <MESSAGE value="Beggining" />
+    <option name="LAST_COMMIT_MESSAGE" value="Beggining" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="21" />
+          <folding>
+            <element signature="e#26#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -515,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-          <folding>
-            <element signature="e#28#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#28#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,9 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#28#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -545,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#28#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,9 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-          <folding>
-            <element signature="e#28#53#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -578,34 +603,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/Utilities.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="12" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="110">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="e#34#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/WordCountBetterSorted.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="51" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <element signature="e#32#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../xgboost/jvm-packages/xgboost4j-example/src/main/scala/ml/dmlc/xgboost4j/scala/example/spark/SparkWithDataFrame.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#621#659#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SparkSQL.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" lean-forward="true" selection-start-line="9" selection-end-line="52" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="15">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <element signature="e#26#65#0" expanded="true" />
+            <element signature="e#26#51#0" expanded="true" />
           </folding>
         </state>
       </provider>

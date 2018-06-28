@@ -1,4 +1,4 @@
-package com.wpedrosa.fin.fin
+package com.wpedrosa.fin
 
 import java.util.regex.Pattern
 
@@ -14,7 +14,7 @@ object Utilities {
   def readFiles() = {
     import scala.io.Source
     
-    for (line <- Source.fromFile("/home/wladimir/Projects/SparkScala/SparkScalaCourse/src/com/wpedrosa/spark/twitter.txt").getLines) {
+    for (line <- Source.fromFile("/home/wladimir/Projects/Caixa/SAQ/SAQ*.csv").getLines) {
       val fields = line.split(" ")
       if (fields.length == 2) {
         System.setProperty("twitter4j.oauth." + fields(0), fields(1))
