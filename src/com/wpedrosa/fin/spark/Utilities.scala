@@ -1,4 +1,4 @@
-package com.wpedrosa.spark
+package com.wpedrosa.fin.spark
 
 import org.apache.log4j.Level
 import java.util.regex.Pattern
@@ -16,7 +16,7 @@ object Utilities {
   def setupTwitter() = {
     import scala.io.Source
     
-    for (line <- Source.fromFile("../twitter.txt").getLines) {
+    for (line <- Source.fromFile("/home/wladimir/Projects/SparkScala/SparkScalaCourse/src/com/wpedrosa/spark/twitter.txt").getLines) {
       val fields = line.split(" ")
       if (fields.length == 2) {
         System.setProperty("twitter4j.oauth." + fields(0), fields(1))

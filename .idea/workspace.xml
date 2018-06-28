@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ac4adf6-2ed5-4fc6-a6e5-8655315c9e04" name="Default" comment="Dir change">
-      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" afterDir="false" />
+    <list default="true" id="1ac4adf6-2ed5-4fc6-a6e5-8655315c9e04" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/RatingsCounter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/Utilities.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wpedrosa/spark/twitter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wpedrosa/fin/spark/twitter.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,27 +21,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="PrintTweets.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala">
+        <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="580">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="12" selection-end-line="41" selection-end-column="1" />
               <folding>
-                <element signature="e#30#55#0" expanded="true" />
+                <element signature="e#34#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utilities.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala">
+      <file leaf-file-name="PredictCashing.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="240">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="e#26#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utilities.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -53,22 +78,29 @@
         <option value="$PROJECT_DIR$/../DataFrames.scala" />
         <option value="$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala" />
         <option value="$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala" />
+        <option value="$PROJECT_DIR$/../LearningScala1.sc" />
+        <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/PredictCashing.scala" />
+        <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala" />
+        <option value="$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="940" />
-    <option name="width" value="1125" />
-    <option name="height" value="728" />
+    <option name="x" value="439" />
+    <option name="y" value="156" />
+    <option name="width" value="1161" />
+    <option name="height" value="741" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,25 +117,42 @@
               <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
               <item name="SparkScalaCourse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkScalaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fin" type="462c0819:PsiDirectoryNode" />
+              <item name="fin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkScalaCourse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkScalaCourse" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fin" type="462c0819:PsiDirectoryNode" />
               <item name="spark" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/SparkScalaCourse" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Spark-Scala" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wpedrosa.fin.fin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/wpedrosa/fin/fin" />
       <recent name="$PROJECT_DIR$/src/com/wpedrosa/spark" />
     </key>
   </component>
@@ -281,26 +330,82 @@
       <option name="project" value="LOCAL" />
       <updated>1529083247032</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Dir change">
+      <created>1529083390113</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1529083390113</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Dir change">
+      <created>1529083525910</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1529083525910</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dir change">
+      <created>1529083710412</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1529083710412</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Dir change 2">
+      <created>1529083821453</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529083821453</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Dir change 3">
+      <created>1529083923978</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1529083923978</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Dir change 3">
+      <created>1529084021590</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1529084021590</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Dir change 4">
+      <created>1529085434234</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1529085434234</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Dir change 4">
+      <created>1529085461690</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1529085461690</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="940" width="1125" height="728" extended-state="0" />
+    <frame x="439" y="156" width="1161" height="741" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32715008" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5004445" side_tool="true" weight="0.46205732" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49955556" weight="0.46205732" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49955556" weight="0.32715008" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49955556" visible="true" weight="0.09735974" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34666666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.40568477" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -310,11 +415,22 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32715008" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -324,27 +440,78 @@
     <MESSAGE value="changing package name" />
     <MESSAGE value="try 15" />
     <MESSAGE value="Dir change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dir change" />
+    <MESSAGE value="Dir change 2" />
+    <MESSAGE value="Dir change 3" />
+    <MESSAGE value="Dir change 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dir change 4" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <element signature="e#30#55#0" expanded="true" />
+            <element signature="e#34#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/Utilities.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningScala1.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/Utilities.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LearningScala1.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="54" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="e#34#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/Utilities.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
@@ -354,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
@@ -364,7 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
@@ -374,7 +541,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
@@ -392,7 +559,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/RatingsCounter.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/RatingsCounter.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
@@ -402,20 +569,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/PrintTweets.scala">
+    <entry file="file://$PROJECT_DIR$/../LearningScala1.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="15">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/Utilities.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/spark/PrintTweets.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="12" selection-end-line="41" selection-end-column="1" />
           <folding>
-            <element signature="e#30#55#0" expanded="true" />
+            <element signature="e#34#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/spark/Utilities.scala">
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/Utilities.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wpedrosa/fin/fin/PredictCashing.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#26#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
